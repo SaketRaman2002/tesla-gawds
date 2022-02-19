@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tesla-gawds/static/css/main.5a112546.chunk.css",
+    "main.js": "/tesla-gawds/static/js/main.b55b4e2b.chunk.js",
+    "main.js.map": "/tesla-gawds/static/js/main.b55b4e2b.chunk.js.map",
+    "runtime-main.js": "/tesla-gawds/static/js/runtime-main.d09302db.js",
+    "runtime-main.js.map": "/tesla-gawds/static/js/runtime-main.d09302db.js.map",
+    "static/css/2.3b2d8024.chunk.css": "/tesla-gawds/static/css/2.3b2d8024.chunk.css",
+    "static/js/2.fe19cf95.chunk.js": "/tesla-gawds/static/js/2.fe19cf95.chunk.js",
+    "static/js/2.fe19cf95.chunk.js.map": "/tesla-gawds/static/js/2.fe19cf95.chunk.js.map",
+    "index.html": "/tesla-gawds/index.html",
+    "static/css/2.3b2d8024.chunk.css.map": "/tesla-gawds/static/css/2.3b2d8024.chunk.css.map",
+    "static/css/main.5a112546.chunk.css.map": "/tesla-gawds/static/css/main.5a112546.chunk.css.map",
+    "static/js/2.fe19cf95.chunk.js.LICENSE.txt": "/tesla-gawds/static/js/2.fe19cf95.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/tesla-gawds/static/media/WPb0C2.356e55f0.jpg",
+    "static/media/slick-theme.css": "/tesla-gawds/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d09302db.js",
+    "static/css/2.3b2d8024.chunk.css",
+    "static/js/2.fe19cf95.chunk.js",
+    "static/css/main.5a112546.chunk.css",
+    "static/js/main.b55b4e2b.chunk.js"
+  ]
+}
